@@ -1,0 +1,2 @@
+# gauthconf
+Google oidc configuration
